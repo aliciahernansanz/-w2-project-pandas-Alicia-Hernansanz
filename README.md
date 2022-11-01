@@ -23,7 +23,7 @@ Para ello trasponemos los valores y filtramos por mas de 7 nulos por fila (un 30
 Con esto conseguimos reducir las filas de 6312 a 6295.
 
 Siguiente paso es limpiar el nombre de las columnas.
-Eliminamos los posibles espacion que esten antes o depsues de las palabras.
+Eliminamos los posibles espacion que esten antes o despues de las palabras.
 Y convertimos todo a minusculas.
 
 
